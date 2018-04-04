@@ -1,1 +1,1 @@
-# openstack
+# DevStack on CentOS7 
